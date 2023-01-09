@@ -1,0 +1,8 @@
+ 1. görsel :  Programımıza açtığımız zaman sol üstte bulunan text kısmına dizimizin eleman sayısını girerek dizi 
+yap butonu ile random sayılar ile dizimizi oluşturuyoruz
+2. görsel : Ardından comboBox ile algoritmalarımızı seçiyoruz. Bir algoritma seçtikten sonra( görsellerde Insert sort
+seçilecektir) sırala butonuna tıklıyoruz
+3. görsel : butonumuza tıkladığımzı zaman bize sıralanmış dizimizi, seçilen algoritmanın kaç işlem yaptığını 
+ve yapılan işlemleri ve diğer algoritmaların kaç işlme yaptığını ekrana yazıyoruz, ardından çizdir butonuna tıklıyoruz
+ 
+4. görsel: çizdir butonu ile  bütün algoritmaların işlem sayılarını alarak bi grafik çiziyoruz

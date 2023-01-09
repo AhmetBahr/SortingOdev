@@ -1,0 +1,10 @@
+	Grafik sayfasında kullanıcan aldığımız dizide her algoritmanın kaç basamakta sıraladıkları bulunmakta, 
+basamak sayısı değerine göre stunların uzunluklarını altı ile çarparak çizimler yapıyoruz.
+	
+	GUISorting sayfasında programımızın kullanıcı ile iletişe geçtiğimiz kod satırları ve butonlar içerisinde 
+diğer kod sayfalarındaki metotları çalışrmamızı sağlayan satırlar bulunmakta 
+	
+	Heap sayfasında HEAP sıralama algoritmasının kodaları bulunmaktadır 
+	
+	SortingAlgo sayfasında heap dışında diğer bütün arama algoritmaların metotları basamak değerleri ekrana yazma sıralama 
+gibi bir çok işlevli metot bulunmakta 
